@@ -1,0 +1,12 @@
+module AturanMcBucket where
+
+-- ATURAN MCBUCKET
+-- DEFINISI DAN SPESIFIKASI
+buatEnkripsi :: [(Int -> Bool, Int -> Int)] -> (Int -> Int)
+-- buatEnkripsi aturan menghasilkan sebuah FUNGSI enkripsi. 
+-- Fungsi enkripsi tersebut akan memproses sebuah integer melalui 
+-- serangkaian modifikasi berdasarkan aturan yang diberikan secara berurutan.
+-- Jika aturan kosong atau tidak ada predikat yang terpenuhi, nilai tetap sama.
+
+-- REALISASI
+buatEnkripsi l = \x-> (foldl (\y (p, f) -> if (p y) then (f y) else y) x l)
