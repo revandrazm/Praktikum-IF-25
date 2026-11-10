@@ -10,3 +10,5 @@
 | 5 | [Higher Order Function/Fungsi Sebagai Nilai](./Praktikum%205/) |
 | 6 | [Kemurnian, I/O, dan Pohon](./Praktikum%206/) |
 | 7 | [Rekurens dalam Konteks Prosedural](./Praktikum%207/) |
+| 8 | [Mesin Karakter dan List Berkait](./Praktikum%208/) |
+| 9 | [List Berkait Rekursif](./Praktikum%209/) |
