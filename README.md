@@ -12,3 +12,4 @@
 | 7 | [Rekurens dalam Konteks Prosedural](./Praktikum%207/) |
 | 8 | [Mesin Karakter dan List Berkait](./Praktikum%208/) |
 | 9 | [List Berkait Rekursif](./Praktikum%209/) |
+| 10 | [Operasi List Rekursif dan Mesin Kata](./Praktikum%2010/)
