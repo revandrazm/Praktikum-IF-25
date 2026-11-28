@@ -14,3 +14,4 @@
 | 9 | [List Berkait Rekursif](./Praktikum%209/) |
 | 10 | [Operasi List Rekursif dan Mesin Kata](./Praktikum%2010/) |
 | 11 | [Pohon Biner](./Praktikum%2011/) |
+| 12 | [Binary Search Tree dan Graf](./Praktikum%2012/)
